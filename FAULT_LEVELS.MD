@@ -3,7 +3,7 @@
 Fault levels are used to diagnose what is the seriousness of what is being raised
 
 | Topic - Failure   | Level    |
-|----------------  -|----------|
+|-------------------|----------|
 | Failure Network   | 5        |
 | Failure Component | 3        |
 | Failure Access    | 6        |
