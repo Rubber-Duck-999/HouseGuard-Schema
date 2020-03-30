@@ -30,7 +30,7 @@
         "time": {
           "type": "string"
         },
-        "error": {
+        "message": {
           "type": "string"
         },
         "severity": {
@@ -40,7 +40,7 @@
       "required": [
         "component",
         "time",
-        "error",
+        "message",
         "severity"
       ]
     },
