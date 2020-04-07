@@ -17,7 +17,8 @@ Size of fields received 100
 * Weather reading
   * Temperature = 30'C
 ## SYP:
-* Failed to start up process
+* Failed to shut process - EVM
+  * Component will not shutdown - EVM 
 * CPU high usage
 * Low memory left
 
