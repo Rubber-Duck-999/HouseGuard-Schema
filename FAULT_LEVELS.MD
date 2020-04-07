@@ -10,4 +10,3 @@ Fault levels are used to diagnose what is the seriousness of what is being raise
 | Motion Detected   | 7        |
 | Failure Database  | 4        |
 | Failure Camera    | 2        |
-| Issue Notice      | 1        |
