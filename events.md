@@ -20,15 +20,15 @@ Images hit limit
 * Weather reading
   * Temperature = 30'C
 ## SYP:
-* Failed to shut process - EVM
-  * Component will not shutdown - EVM 
+* Fault Handler is dead
+  * FH down - rebooting
 * CPU high usage
 * Low memory left
 
 ## FH:
 * Email server inaccessible
   * Server is failing to send
-* Motion turned off
+* Motion state changed
   * Monitoring state changed
   
 ## NAC:
@@ -36,3 +36,5 @@ Images hit limit
   * ESC Incorrect details or login attempted
 * Excessive network traffic
   * Excessive traffic on network
+* Unknown mac address
+  * New device connected - 6T-7H-8H-8J-9K
