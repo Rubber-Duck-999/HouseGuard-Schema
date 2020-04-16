@@ -1,6 +1,9 @@
 ## DBM:
 Size of fields received 100
 
+## CM:
+Images hit limit
+
 ## UP:
 * User changed monitor state
   * Monitor state changed by user to OFF
