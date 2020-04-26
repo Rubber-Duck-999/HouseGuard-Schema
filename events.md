@@ -23,7 +23,6 @@ Images hit limit
 * Fault Handler is dead
   * FH down - rebooting
 * CPU high usage
-* Low memory left
 
 ## FH:
 * Email server inaccessible
