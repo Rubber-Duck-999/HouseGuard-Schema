@@ -42,12 +42,13 @@
   },
   "access.response": {
     "id": 101,
-    "result": false
+    "result": "fail"
   },
-  "monitor.update": {
-    "state": true
+  "pause.evm": { 
+    "type": "drive",
+    "length": "1"
   },
-  "monitor.state": false,
+  "monitor.state": 0,
   "data.info": {
     "format": "string",
     "path": "MyFolder"
