@@ -52,5 +52,10 @@
   "data.info": {
     "format": "string",
     "path": "MyFolder"
+  },
+  "device.*": {
+    "Name": "Samsung",
+    "Ip": "127.0.0.1",
+    "Mac": "00-00-00-00-00-00"
   }
 }
