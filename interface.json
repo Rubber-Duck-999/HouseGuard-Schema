@@ -53,9 +53,11 @@
     "format": "string",
     "path": "MyFolder"
   },
-  "device.*": {
+  "device.request": {
+    "Request_id": 101,
     "Name": "Samsung",
-    "Ip": "127.0.0.1",
     "Mac": "00-00-00-00-00-00"
+  },
+  "status.DBM": {
   }
 }
