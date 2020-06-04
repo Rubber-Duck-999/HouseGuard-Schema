@@ -5,7 +5,7 @@ HouseGuard-Schema for the rabbitmq json message published and subscribed on Hous
 # Architecture
 
 <h2 align="centre">
-  <image src="https://github.com/Rubber-Duck-999/HouseGuard-Schema/House_Guard.jpg" width="600px" />
+  <image src="https://github.com/Rubber-Duck-999/HouseGuard-Schema/blob/master/House_Guard.jpg" width="600px" />
   <br>
 </h2>
 
